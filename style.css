@@ -1,0 +1,33 @@
+body{
+  background-color: pink;  
+}
+.ps{
+    color: white;
+    font-weight: bold;
+    font-family: Josefin Sans;
+    margin-left: 460px;
+}
+.img1{
+    height: 200px;
+    width: 300px;
+    margin-left: 440px;
+}
+.ku{
+    width: 500px;
+    margin-left: 410px;
+    color: white;
+}
+.b1{
+    margin-left: 410px;
+    border: none;
+    width: 90px;
+    height: 20px;
+    background-color: lime;
+    color: white;
+
+}
+.b1:hover{
+    color: lime;
+    background-color: white;
+    transition: 1s;
+}
